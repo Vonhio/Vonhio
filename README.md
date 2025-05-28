@@ -1,14 +1,8 @@
-# Hello! 👋 I'm Vonhio!
+👋 About Me
+Learning backend and full-stack development with Java (Spring Boot) and Angular (TypeScript). Focused on building APIs and application logic.
 
-### A bit about me
-- 🎓 Currently learning to code and exploring new technologies.
-- 🌱 Passionate about improving my skills in **web development** and **programming**.
-- 💡 Always looking to learn something new every day.
-- 🚀 Working on personal projects to practice and grow my skills.
+🚀 Currently
+Creating personal projects to improve and explore new technologies step by step.
 
-### My interests
-- 💻 Programming and web development.
-- 🧠 Artificial Intelligence and Machine Learning.
-- 🌐 Creating useful projects and sharing them with the community.
-
-Thanks for visiting my profile! 😊
+🛠 Tech
+Java · Spring Boot · TypeScript · Angular · MySQL · Git · Postman
