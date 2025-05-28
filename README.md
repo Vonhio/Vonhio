@@ -1,8 +1,13 @@
-👋 About Me
-Learning backend and full-stack development with Java (Spring Boot) and Angular (TypeScript). Focused on building APIs and application logic.
+### 👋 About Me  
+Learning backend and full-stack development with **Java (Spring Boot)** and **Angular (TypeScript)**.  
+Focused on building APIs and application logic.
 
-🚀 Currently
+---
+
+### 🚀 Currently  
 Creating personal projects to improve and explore new technologies step by step.
 
-🛠 Tech
-Java · Spring Boot · TypeScript · Angular · MySQL · Git · Postman
+---
+
+### 🛠 Tech  
+Java · Spring Boot · TypeScript · Angular · MySQL · Git · Postman · Docker
